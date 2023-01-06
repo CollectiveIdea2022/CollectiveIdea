@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&family=Michroma&family=Montserrat:wght@500&family=Open+Sans&display=swap");
+
+* {
+  /* font-family: 'Kanit', sans-serif;
+font-family: 'Michroma', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.card-1:hover {
+  bottom: 10px;
+}
+
+.card-2:hover {
+  bottom: 10px;
+}
+
+.card-3:hover {
+  bottom: 10px;
+}
+
+.card-4:hover {
+  bottom: 10px;
+}
+
+.card-5:hover {
+  bottom: 10px;
+}
+
+.card-6:hover {
+  bottom: 10px;
+}
+
+.card-7:hover {
+  bottom: 10px;
+}
+
+.card-8:hover {
+  bottom: 10px;
+}
